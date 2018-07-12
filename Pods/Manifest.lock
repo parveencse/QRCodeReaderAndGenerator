@@ -1,0 +1,16 @@
+PODS:
+  - QRCodeReaderViewController (4.0.2)
+
+DEPENDENCIES:
+  - QRCodeReaderViewController
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - QRCodeReaderViewController
+
+SPEC CHECKSUMS:
+  QRCodeReaderViewController: e8f27d035b3e72b1d4b1c61ff66458287e3be0ff
+
+PODFILE CHECKSUM: 9c16f2b0dce57be6389052b753ae3a62fc5f7325
+
+COCOAPODS: 1.5.3

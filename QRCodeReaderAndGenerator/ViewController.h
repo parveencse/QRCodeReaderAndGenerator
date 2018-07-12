@@ -8,8 +8,12 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+#import "QRCodeReaderDelegate.h"
 
+@interface ViewController : UIViewController <QRCodeReaderDelegate>
+@property (weak, nonatomic) IBOutlet UIImageView *imageVIew;
+
+@property (weak, nonatomic) IBOutlet UIButton *startBtn;
 
 @end
 
